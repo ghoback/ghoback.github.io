@@ -9,14 +9,14 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #a3b18a;
   text-align: left;
 /*  min-width: 500px; */
 }
 
 header {
   font-family: 'Source Sans Pro', sans-serif;
-  color: #fff;
+  color: #344e41;
   min-height: 100vh;
   display: flex;
 }
@@ -47,7 +47,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #344e41;
   padding: 10px 0px 10px 10px;
 }
 
@@ -65,7 +65,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #344e41;
   font-size: 24px;
   font-family: 'Source Sans Pro', sans-serif;
 }
