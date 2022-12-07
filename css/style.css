@@ -46,7 +46,7 @@ h2 {
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
-  text-align: left;
+  text-align: center;
   color: #344e41;
   padding: 10px 20px 0 20px;
 }
@@ -99,18 +99,18 @@ img {
 
 .project {
   box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
-  width: 100%;
+  width: 93%;
 }
 
 .description {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
   font-weight: 300;
-  line-height: 1.29;
+  line-height: 1.40;
   letter-spacing: 0.1px;
   text-align: left;
   color: #344e41;
-  padding: 0 20px 20px 20px;
+  padding: 0 30px 20px 30px;
 }
 
 .container {
