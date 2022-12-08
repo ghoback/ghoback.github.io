@@ -132,9 +132,14 @@ footer div {
   main {
     grid-template-columns: 1fr;
   }
+  .description {
+    font-size: 18px;
+  }
   img {
     height: 40vh;
   }
+}
+
 }
 
 a {
